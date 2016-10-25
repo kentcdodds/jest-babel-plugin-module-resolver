@@ -1,0 +1,12 @@
+{
+  "presets": ["node6"],
+  "plugins": [
+    ["module-resolver", {
+      "root": ["./src"],
+      "alias": {
+        "<utils>": "./utils",
+        "underscore": "lodash"
+      }
+    }]
+  ]
+}

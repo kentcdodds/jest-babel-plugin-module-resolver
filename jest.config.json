@@ -1,0 +1,6 @@
+{
+  "testPathDirs": [
+    "<rootDir>/src"
+  ],
+  "scriptPreprocessor": "<rootDir>/custom-preprocessor.js"
+}
